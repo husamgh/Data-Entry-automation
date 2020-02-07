@@ -4,4 +4,4 @@ Install Python
 Install python pip library
 then download the selenium webdriver of you prefered web browser
 
-Finally, Happy web browser Autoimation.
+Finally, Happy web browser Automation.
